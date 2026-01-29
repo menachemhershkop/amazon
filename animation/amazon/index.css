@@ -1,0 +1,27 @@
+body{
+    background: #e3e6e6;
+}
+.bar{
+    background: #232f3e;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: white;
+}
+#glass{
+   background: #febd69; 
+}
+#ctegory{
+    background: #e6e6e6;
+    width: 50px;
+    bo
+}
+input{
+    border-radius: none;
+}
+#search{
+    background:wheat ;
+    border-style: groove;
+    border-radius: 5%;
+    height: 1%;
+}
